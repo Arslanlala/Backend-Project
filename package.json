@@ -1,0 +1,16 @@
+{
+  "name": "full-stack-project",
+  "version": "1.0.0",
+  "description": "This is my first backend project",
+  "keywords": [
+    "fullstack",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Arsalan shabir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
