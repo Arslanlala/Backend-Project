@@ -12,6 +12,7 @@ const connectDB = async () => {
     );
   } catch (error) {
     console.log("MONGO_DB CONNECTION ERROR", error);
+    
     process.exit(1);
   }
 };
